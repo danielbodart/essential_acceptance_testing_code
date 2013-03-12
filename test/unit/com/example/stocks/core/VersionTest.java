@@ -7,7 +7,7 @@ import static com.example.stocks.core.ExampleStocks.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
-public class PortfolioTest {
+public class VersionTest {
 
     private StubBook book = new StubBook();
     private StubMarketData marketData = new StubMarketData();
